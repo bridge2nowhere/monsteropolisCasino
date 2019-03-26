@@ -1,4 +1,4 @@
-# monstropolisCasino
+# Monsteropolis Casino
 A casino game for the Arduboy
 
 You are a lowly goblin working in the most Fabulous Casino in all of Faerun.
