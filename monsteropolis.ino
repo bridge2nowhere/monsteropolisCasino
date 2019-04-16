@@ -285,7 +285,13 @@ void lizardMove() {
     byte posnY = 0;
     for( byte i = 0; i < 4; i++)
     {
-      lizardPosn[i] += random(1,4); 
+      if(random(1,13) < (13 - racerOdds[i])) {
+          lizardPosn[i] += random(2,5);
+      }
+      else {
+         lizardPosn[i] += 1;
+      }
+        
       arduboy.setCursor(lizardPosn[i],posnY);
       arduboy.print("~");
       posnY += 8;
