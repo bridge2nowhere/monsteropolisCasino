@@ -12,4 +12,7 @@ Monsteropolis was founded by great, bugbear warlord Gorehunger the Impaler, frie
 
 This resort was imagined by a Ben, Ryan, Andrew and Dan, a Dungeons and Dragons adventuring group while attempting to save the world from the wrath of the giants.
 
+## 
+Nilbog's Revenge is adapted from the game Hazard as described in this article: https://www.tribality.com/2015/09/14/gambling-in-rpg-games/ 
+
 ![alt text](https://66.media.tumblr.com/9420f013bae0fc6e76ca049a112c16c1/tumblr_ph3yb3vepJ1uosg49o1_1280.png)
