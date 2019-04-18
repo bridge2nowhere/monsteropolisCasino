@@ -3,7 +3,7 @@ A casino game for the Arduboy
 
 You are a lowly goblin working in the most Fabulous Casino in all of Faerun.
 
-##[Try out the game using Project Abe Emulator](https://felipemanga.github.io/ProjectABE/?url=https://raw.githubusercontent.com/bridge2nowhere/monsteropolisCasino/master/monsteropolis.ino-arduboy.hex)
+[Try out the game using Project Abe Emulator](https://felipemanga.github.io/ProjectABE/?url=https://raw.githubusercontent.com/bridge2nowhere/monsteropolisCasino/master/monsteropolis.ino-arduboy.hex)
 
 Requires the Arduboy-Tiny Font Library: https://github.com/yinkou/Arduboy-TinyFont
 
